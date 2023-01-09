@@ -8,12 +8,12 @@ This exercise is an opportunity for you to create your first project in Twine, t
 
 The expectations for this exercise are that you will
 
- * Fork this repository
- * Create a new Twine project
- * Add six locations to the Twine project
- * Publish the Twine project as zork.html inside this repository's folder
- * Edit this repository's LICENSE and README.md
- * Commit and push your changes back to GitHub. Turn in the URL of your repository on Canvas.
+ - [ ] Fork this repository
+ - [ ] Create a new Twine project
+ - [ ] Add six locations to the Twine project (described below)
+ - [ ] Publish the Twine project as zork.html inside this repository's folder
+ - [ ] Edit this repository's LICENSE and README.md
+ - [ ] Commit and push your changes back to GitHub. Turn in the URL of your repository on Canvas.
 
 ## Instructions
 
