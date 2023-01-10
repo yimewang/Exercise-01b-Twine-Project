@@ -2,9 +2,9 @@
 
 Exercise for MSCH-C220
 
-A demonstration of this exercise is available at [https://youtu.be/HH3K50PZq5c](https://youtu.be/HH3K50PZq5c).
+A demonstration of this exercise is available at [https://youtu.be/yk6IIrzJfVA](https://youtu.be/yk6IIrzJfVA) (24 minutes).
 
-This exercise is an opportunity for you to create your first project in Twine, the open-source tool for creating non-linear interactive stories (interactive fiction). You should have installed [Twine 2.5.1](http://twinery.org/)  as part of your last exercise; if not, please do so now.
+This exercise is an opportunity for you to create your first project in Twine, the open-source tool for creating non-linear interactive stories (interactive fiction). You should have installed [Twine 2.6.0](http://twinery.org/)  as part of your last exercise; if not, please do so now.
 
 The expectations for this exercise are that you will
 
@@ -106,7 +106,7 @@ Exercise for MSCH-C220
 An Interactive Fiction game loosely based on the great Interactive Fiction game, Zork. Load Zork.html in a browser to play it.
 
 ## Implementation
-Built using Twine 2.5.1
+Built using Twine 2.6.0
 
 ## References
 [Zork, Infocom, 1977](https://www.pcjs.org/software/pcx86/game/infocom/zork1/)
