@@ -21,6 +21,8 @@ Fork this repository. When that process has completed, make sure that the top of
 
 Press the green "Code" button and select "Open in GitHub Desktop". Allow the browser to open (or install) GitHub Desktop. Once GitHub Desktop has loaded, you should see a window labeled "Clone a Repository" asking you for a Local Path on your computer where the project should be copied. Choose a location where you will keep the repositories for this class (a C220 folder off your Desktop would be fine). Make sure the Local Path ends with "Exercise-01b-Twine-Project" and then press the "Clone" button. GitHub Desktop will now download a copy of the repository to the location you indicated.
 
+*If you are installing Twine on a Mac, the first time you run it you may get an error. Right-click on the Twine application and select open (and then select open when the warning appears). After that, you should be able to run Twine like any other application.*
+
 Open Twine, and press the "+New" button in the top left corner of the window. When you are asked what your story should be named, enter "Zork". Press the "Create" button to get started.
 
 You should now see a window with a blue grid background. There should be a node in the middle of the window labeled "Untitled Passage". Double click on the node to open it.
